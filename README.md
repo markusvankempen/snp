@@ -1,2 +1,2 @@
 # snp
-SNP Candle Code
+SNP Candle Code by mvk@ca.ibm.com
