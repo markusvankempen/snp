@@ -1,9 +1,9 @@
 
 var exec = require('child_process').exec;
 
-        console.log('pulling code from GitHub... mvk20171112');
+        console.log('pulling code from GitHub... mvk20171112 v1');
   // now pull down the latest
-        exec('git -C ~/gittest/snp pull -f', execCallback);
+        exec('git -C /home/pi/gittest/snp pull -f', execCallback);
 
 
 function execCallback(err, stdout, stderr) {
